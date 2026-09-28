@@ -1,0 +1,5 @@
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+[2026-09-26T22:57:56.018] error: *** STEP 10.0 ON TUFFY CANCELLED AT 2026-09-26T22:57:56 DUE TO TIME LIMIT ***
+[2026-09-26T22:57:56.020] error: *** JOB 10 ON TUFFY CANCELLED AT 2026-09-26T22:57:56 DUE TO TIME LIMIT ***
+srun: got SIGCONT
+srun: forcing job termination

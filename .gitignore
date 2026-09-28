@@ -1,0 +1,6 @@
+# Abaikan biner hasil kompilasi C
+mpi_hello
+mpi_pi
+
+# Abaikan file objek
+*.o
